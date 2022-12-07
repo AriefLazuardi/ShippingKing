@@ -33,4 +33,4 @@ Route::post('inserttask',[TaskController::class,'insertTask']);
 
 
 
-Route::post('cari',[PengirimanController::class,'cari']);
+Route::post('periksa',[PengirimanController::class,'periksa']);

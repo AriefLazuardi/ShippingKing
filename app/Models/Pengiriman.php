@@ -32,6 +32,10 @@ class Pengiriman extends PengirimanController{
         return $results;
 
     }
+    public function input()
+    {
+      
+    }
 
 
 }
